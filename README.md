@@ -27,8 +27,8 @@ NPM Packages needed: Mongoose, Express
 
 Run server.js in terminal and head to localhost:3000 to open application.
 
-![app screen shot](https://github.com/hamery93/Employee-Tracker/blob/master/Assets/appScreenshot.jpg)
-![app screen shot](https://github.com/hamery93/Employee-Tracker/blob/master/Assets/appScreenshot.jpg)
+![app screen shot](https://github.com/hamery93/Fitness-Tracker/blob/master/appscreenshot.jpg)
+![app screen shot](https://github.com/hamery93/Fitness-Tracker/blob/master/appscreenshot1.jpg)
    
 ## License
 
